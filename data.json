@@ -1,0 +1,61 @@
+[
+    {
+      "name": "トマトスープ",
+      "time": 30,
+      "ingredients": [
+        {"name": "トマト", "amount": 200, "unit": "g"},
+        {"name": "玉ねぎ", "amount": 100, "unit": "g"},
+        {"name": "にんじん", "amount": 50, "unit": "g"}
+      ],
+      "url": "https://example.com/tomato-soup"
+    },
+    {
+      "name": "サラダ",
+      "time": 15,
+      "ingredients": [
+        {"name": "レタス", "amount": 100, "unit": "g"},
+        {"name": "トマト", "amount": 50, "unit": "g"},
+        {"name": "きゅうり", "amount": 30, "unit": "g"}
+      ],
+      "url": "https://example.com/salad"
+    },
+    {
+      "name": "ポークカレー",
+      "time": 40,
+      "ingredients": [
+        {"name": "ごはん", "amount": 300, "unit": "g"},
+        {"name": "豚(こま切れ肉)", "amount": 150, "unit": "g"},
+        {"name": "玉ねぎ", "amount": 100, "unit": "g"},
+        {"name": "にんじん", "amount": 75, "unit": "g"},
+        {"name": "じゃがいも", "amount": 150, "unit": "g"},
+        {"name": "おろしにんにく", "amount": "小さじ", "unit": "1/2"},
+        {"name": "サラダ油", "amount": "小さじ", "unit": "2"},
+        {"name": "水", "amount": 400, "unit": "cc"},
+        {"name": "ウスターソース", "amount": "大さじ", "unit": 1},
+        {"name": "ケチャップ", "amount": "大さじ", "unit": 1},
+        {"name": "カレールウ", "amount": 60, "unit": "g"}
+      ],
+      "url": "https://delishkitchen.tv/recipes/199057563545764991"
+    },
+    {
+      "name": "オムライス",
+      "time": 20,
+      "ingredients": [
+        {"name": "卵", "amount": 2, "unit": "個"},
+        {"name": "ごはん", "amount": 200, "unit": "g"},
+        {"name": "ケチャップ", "amount": 30, "unit": "g"}
+      ],
+      "url": "https://example.com/omurice"
+    },
+    {
+      "name": "味噌汁",
+      "time": 15,
+      "ingredients": [
+        {"name": "豆腐", "amount": 150, "unit": "g"},
+        {"name": "わかめ", "amount": 50, "unit": "g"},
+        {"name": "味噌", "amount": 30, "unit": "g"}
+      ],
+      "url": "https://example.com/misosoup"
+    }
+  ]
+  
