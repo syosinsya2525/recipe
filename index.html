@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>レシピ検索サイト</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="heading-22">レシピ検索</h1>
+  <div class="search-form">
+    <input type="text" id="ingredient" placeholder="材料名 (例: とまと, トマト)">
+    <input type="number" id="quantity" placeholder="グラム数 or 個数">
+    <button onclick="searchRecipes()" class="button-2">検索</button>
+  </div>
+  <div id="results"></div>
+<script src="script.js"></script>
+</body>
+</html>
